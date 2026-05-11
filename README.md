@@ -101,4 +101,4 @@ public/                Static assets
 
 ## License
 
-MIT.
+MIT © 2026 0xbl33p. See [LICENSE](./LICENSE).
